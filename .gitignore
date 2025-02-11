@@ -1,3 +1,9 @@
+# Ignore CUDA files
+*.cu
+
+# Ignore a specific folder
+Carpeta_No_Subir/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
