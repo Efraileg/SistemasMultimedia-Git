@@ -1,1 +1,2 @@
-Contenido conflicto <- Línea modificada 
+Contenido conflicto <- Línea modificada
+
